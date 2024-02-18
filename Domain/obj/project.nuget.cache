@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sElvqdn1Q0vAxBN1aDbN/L2CrgDDk8UfWFGdDEp3+KNFYLm0Ql2DOw1W3YyLoAbvMcMJkwOsUBpob3cj8xDnZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TACHANKA\\Desktop\\community_ms_areas_comunes\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TACHANKA\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\TACHANKA\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\TACHANKA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

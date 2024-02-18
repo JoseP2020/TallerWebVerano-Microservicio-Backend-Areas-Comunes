@@ -1,0 +1,60 @@
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\bin\Debug\net7.0\Shared.dll
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\bin\Debug\net7.0\Shared.pdb
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\lenovo\Downloads\comunity_ms_areas_sociales\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Shared.dll
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Shared.pdb
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\lenovo\Downloads\Ayuda Peña\community_ms_areas_comunes\community_ms_areas_comunes\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\bin\Debug\net7.0\Shared.dll
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\bin\Debug\net7.0\Shared.pdb
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Andres\OneDrive - Universidad Núr\Escritorio\JOSE PEÑA\dsad\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Shared.dll
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\bin\Debug\net7.0\Shared.pdb
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\TACHANKA\Desktop\community_ms_areas_comunes\Domain\obj\Debug\net7.0\ref\Domain.dll
