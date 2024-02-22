@@ -1,0 +1,356 @@
+[
+  {
+    "ContainingType": "Web.Controllers.AreaComunController",
+    "Method": "CrearAreaComun",
+    "RelativePath": "api/areaComun",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.AreasComunes.CrearAreaComun.CrearAreaComunCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.AreaComunController",
+    "Method": "EliminarAreaComun",
+    "RelativePath": "api/areaComun",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.AreasComunes.EliminarAreaComun.EliminarAreaComunCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.AreaComunController",
+    "Method": "GetAll",
+    "RelativePath": "api/areaComun",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.AreaComunController",
+    "Method": "EditarAreaComun",
+    "RelativePath": "api/areaComun",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.AreasComunes.EditarAreaComun.EditarAreaComunCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.AreaComunController",
+    "Method": "InhabilitarAreaComun",
+    "RelativePath": "api/areaComun",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.AreasComunes.InhabilitarAreaComun.InhabilitarAreaComunCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.CondominioController",
+    "Method": "CrearCondominio",
+    "RelativePath": "api/condominio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Condominios.CrearCondominio.CrearCondominioCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.CondominioController",
+    "Method": "GetAll",
+    "RelativePath": "api/condominio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.CondominioController",
+    "Method": "EliminarCodominio",
+    "RelativePath": "api/condominio",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Condominios.EliminarCondominio.EliminarCondominioCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.CondominioController",
+    "Method": "EditarCodominio",
+    "RelativePath": "api/condominio",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Condominios.EditarCondominio.EditarCondominioCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ReservaController",
+    "Method": "CrearReserva",
+    "RelativePath": "api/reserva",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Reservas.CrearReserva.CrearReservaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ReservaController",
+    "Method": "GetAll",
+    "RelativePath": "api/reserva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ReservaController",
+    "Method": "EliminarReserva",
+    "RelativePath": "api/reserva",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Reservas.EliminarReserva.EliminarReservaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ReservaController",
+    "Method": "EditarReserva",
+    "RelativePath": "api/reserva",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Reservas.EditarReserva.EditarReservaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ReservaController",
+    "Method": "GetReserva",
+    "RelativePath": "api/reserva/{residenteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "residenteId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ReservaController",
+    "Method": "AceptarReserva",
+    "RelativePath": "api/reserva/aceptar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Reservas.AceptarReserva.AceptarReservaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ReservaController",
+    "Method": "MandarAEsperaReserva",
+    "RelativePath": "api/reserva/espera",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Reservas.MandarAEspera.MandarAEsperaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ResidenteController",
+    "Method": "CrearResidente",
+    "RelativePath": "api/residente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Residentes.CrearResidente.CrearResidenteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ResidenteController",
+    "Method": "GetAll",
+    "RelativePath": "api/residente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ResidenteController",
+    "Method": "EliminarResidente",
+    "RelativePath": "api/residente",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Residentes.EliminarResidente.EliminarResidenteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ResidenteController",
+    "Method": "EditarResidente",
+    "RelativePath": "api/residente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Residentes.EditarResidente.EditarResidenteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.ResidenteController",
+    "Method": "GetResidente",
+    "RelativePath": "api/residente/{nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.TurnoController",
+    "Method": "CrearTurno",
+    "RelativePath": "api/turno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Turnos.CrearTurno.CrearTurnoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.TurnoController",
+    "Method": "GetAll",
+    "RelativePath": "api/turno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.TurnoController",
+    "Method": "EliminarTurno",
+    "RelativePath": "api/turno",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Command.Turnos.EliminarTurno.EliminarTurnoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

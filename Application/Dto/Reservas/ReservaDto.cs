@@ -11,5 +11,6 @@ namespace Application.Dto.Reservas
         public DateTime Inicio { get; set; }
         public DateTime Fin { get; set; }
         public string Estado { get; set; }
+        public bool Eliminado { get; set; }
     }
 }

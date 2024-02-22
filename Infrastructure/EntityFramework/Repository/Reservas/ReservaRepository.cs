@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.EntityFramework.Repository.Reservas
 {
-    internal class ReservaRepository : IReservaRepository
+    internal class ReservaRepository : IReservaRepository 
     {
         private readonly WriteDbContext _context;
 
@@ -52,5 +52,20 @@ namespace Infrastructure.EntityFramework.Repository.Reservas
             return Task.CompletedTask;
         }
 
+        public async Task<bool> ExisteSolapamientoActualizar(Guid areaComunId, Guid reservaId, DateTime inicio, DateTime fin)
+        {
+            DateTime inicioUtc = inicio.ToUniversalTime();
+            DateTime finUtc = fin.ToUniversalTime();
+
+            return await _context.Reserva
+                .AnyAsync(r =>
+                    r.AreaComunId == areaComunId && r.Id != reservaId &&
+                    (
+                        (inicioUtc > r.Inicio && inicioUtc < r.Fin) ||
+                        (finUtc > r.Inicio && finUtc < r.Fin) ||
+                        (inicioUtc < r.Inicio && finUtc > r.Fin)
+                    )
+                );
+        }
     }
 }

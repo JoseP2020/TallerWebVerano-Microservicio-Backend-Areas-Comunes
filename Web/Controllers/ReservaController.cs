@@ -5,6 +5,7 @@ using Application.UseCase.Command.Reservas.EditarReserva;
 using Application.UseCase.Command.Reservas.EliminarReserva;
 using Application.UseCase.Command.Reservas.MandarAEspera;
 using Application.UseCase.Query.Reservas;
+using Application.UseCase.Query.Residentes;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -48,6 +49,19 @@ namespace Web.Controllers
             {
                 return NotFound();
             }
+            return Ok(result);
+        }
+
+        [Route("{residenteId}")]
+        [HttpGet]
+        public async Task<IActionResult> GetReserva([FromRoute] Guid residenteId)
+        {
+            var query = new GetReservasByIdQuery()
+            {
+                ResidenteId = residenteId
+            };
+            var result = await _mediator.Send(query);
+
             return Ok(result);
         }
 

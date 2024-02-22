@@ -88,7 +88,7 @@ namespace Application.UseCase.Command.Reservas.EditarReserva
 
         private async Task validarSolapamientoReservas(EditarReservaCommand request, Guid areaComunId, IReservaRepository reservaRepository)
         {
-            var existeSolapamiento = await reservaRepository.ExisteSolapamiento(areaComunId, request.Inicio, request.Fin);
+            var existeSolapamiento = await reservaRepository.ExisteSolapamientoActualizar(areaComunId, request.ReservaId, request.Inicio, request.Fin);
             if (existeSolapamiento)
             {
                 throw new BussinessRuleValidationException("Ya hay otra reserva en el mismo horario y área común.");

@@ -9,6 +9,8 @@ namespace Domain.Repository.Reservas
         Task UpdateAsync(Reserva obj);
         Task RemoveAsync(Reserva obj);
         Task<bool> ExisteSolapamiento(Guid areaComunId, DateTime inicio, DateTime fin);
+
+        Task<bool> ExisteSolapamientoActualizar(Guid areaComunId, Guid reservaId, DateTime inicio, DateTime fin);
     }
 }
 
